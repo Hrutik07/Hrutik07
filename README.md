@@ -5,7 +5,7 @@
 
 ### Aspiring Data Analyst | Python • SQL • Power BI • Excel
 
-I am an aspiring Data Analyst with a strong foundation in Python, SQL, Power BI, Tableau, and Excel. I enjoy analyzing data, building interactive dashboards, and turning data into meaningful business insights.
+I am an aspiring Data Analyst with a strong foundation in Python, SQL, Power BI, and Excel. I enjoy analyzing data, building interactive dashboards, and turning data into meaningful business insights.
 
 [GitHub](https://github.com/Hrutik07) | [LinkedIn](https://www.linkedin.com/in/hrutik-hiwase-28a491258/) | [Email](mailto:hrutikhiwase@gmail.com)
 
