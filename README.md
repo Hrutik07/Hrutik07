@@ -76,11 +76,13 @@ I am an aspiring Data Analyst with a strong foundation in Python, SQL, Power BI,
 
 ---
 
+
 ## 📫 Connect With Me
 
 - **GitHub:** [Hrutik07](https://github.com/Hrutik07)
-- **LinkedIn:** [Hrutik Hiwase](https://linkedin.com/in/hrutik-hiwase-)
+- **LinkedIn:** [Hrutik Hiwase](https://www.linkedin.com/in/hrutik-hiwase-28a491258/)
 - **Email:** [hrutikhiwase@gmail.com](mailto:hrutikhiwase@gmail.com)
+
 
 ---
 
