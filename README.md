@@ -11,7 +11,6 @@ I am an aspiring Data Analyst with a strong foundation in Python, SQL, Power BI,
 
 </div>
 
----
 
 ## 🛠️ Tech I Use
 
@@ -63,15 +62,6 @@ I am an aspiring Data Analyst with a strong foundation in Python, SQL, Power BI,
 - Dashboard Development
 - SQL Database Analysis
 - KPI Reporting
-
----
-
-## 📚 Relevant Coursework
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Statistics for Data Analysis
 
 ---
 
