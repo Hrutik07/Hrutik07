@@ -1,4 +1,3 @@
-@hrutikhiwase
 
 <div align="center">
 
