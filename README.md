@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Hrutik Hiwase
 
-### Aspiring Data Analyst | Python • SQL • Power BI • Tableau
+### Aspiring Data Analyst | Python • SQL • Power BI • Excel
 
 I am an aspiring Data Analyst with a strong foundation in Python, SQL, Power BI, Tableau, and Excel. I enjoy analyzing data, building interactive dashboards, and turning data into meaningful business insights.
 
